@@ -1,48 +1,40 @@
-<h2 align="center">Hi, I'm Peng Tang (唐鹏)</h2>
+<h2 align="center">Hi 👋, I'm Peng Tang (唐鹏)</h2>
 
 <p align="center">
-  <a href="https://mrpandragon-tp.github.io/PengTANG.github.io/">Homepage</a> ·
-  <a href="https://scholar.google.com/citations?user=iR8QMNkAAAAJ">Google Scholar</a> ·
-  <a href="https://github.com/mrpandragon-tp">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/%E9%B9%8F-%E5%94%90-140819405/">LinkedIn</a>
+  <a href="https://mrpandragon-tp.github.io/PengTANG.github.io/">
+    <img src="https://img.shields.io/badge/Homepage-Peng%20Tang-2f80ed?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=iR8QMNkAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="https://github.com/mrpandragon-tp">
+    <img src="https://img.shields.io/badge/GitHub-mrpandragon--tp-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/%E9%B9%8F-%E5%94%90-140819405/">
+    <img src="https://img.shields.io/badge/LinkedIn-Peng%20Tang-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-I am currently a PhD student at **The University of Tokyo (UTokyo)**, in the
-Department of Information and Communication Engineering, Graduate School of
-Information Science and Technology, advised by **Prof. Yusuke Matsui**.
+### 🧑‍💻 About Me
 
-My research focuses on **vector databases**, **Approximate Nearest Neighbor
-Search (ANNS)**, and **learned index structures**. I am interested in efficient
-indexing, search, and maintenance for large-scale vector retrieval systems,
-especially in modern AI and RAG applications.
+- 🎓 PhD student at **The University of Tokyo (UTokyo)**, advised by **Prof. Yusuke Matsui**.
+- 🔍 Working on **vector databases**, **Approximate Nearest Neighbor Search (ANNS)**, and **learned index structures**.
+- ⚡ Interested in scalable, update-friendly, and accuracy-efficient retrieval systems for modern AI/RAG applications.
+- 🌱 Previously received my MPhil from **Zhejiang University (ZJU)**, working on spatial learned indexes.
 
-Before joining UTokyo, I received my MPhil in Remote Sensing and Geographic
-Information Systems from **Zhejiang University (ZJU)**, where I worked on
-spatial learned indexes.
+### 🧭 Research Keywords
 
-### Research Interests
+`Vector Databases` · `ANNS` · `Learned Indexes` · `High-Dimensional Search` · `RAG Systems`
 
-- Vector databases and high-dimensional data management
-- Approximate Nearest Neighbor Search (ANNS)
-- Learned index structures
-- Efficient retrieval systems for AI applications
+### 🤝 Connect with Me
 
-### Current Focus
-
-- Building scalable and update-friendly vector retrieval systems
-- Understanding the trade-offs among search accuracy, latency, and index maintenance
-- Exploring learned structures for large-scale similarity search
-
-### Connect
-
-- Homepage: <https://mrpandragon-tp.github.io/PengTANG.github.io/>
-- Google Scholar: <https://scholar.google.com/citations?user=iR8QMNkAAAAJ>
-- Email: tang [at] hal.t.u-tokyo.ac.jp
-
----
-
-<p align="center">
-  <sub>Always happy to discuss vector search, data systems, and research ideas.</sub>
+<p>
+  <a href="mailto:tang@hal.t.u-tokyo.ac.jp">
+    <img src="https://img.shields.io/badge/Email-tang%40hal.t.u--tokyo.ac.jp-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mrpandragon-tp.github.io/PengTANG.github.io/">
+    <img src="https://img.shields.io/badge/Personal%20Website-Visit-2f80ed?style=flat-square&logo=safari&logoColor=white" />
+  </a>
 </p>
